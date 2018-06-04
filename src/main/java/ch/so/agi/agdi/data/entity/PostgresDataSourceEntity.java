@@ -1,4 +1,4 @@
-package ch.so.agi.agdi.geodb.model;
+package ch.so.agi.agdi.data.entity;
 
 public class PostgresDataSourceEntity {
 	

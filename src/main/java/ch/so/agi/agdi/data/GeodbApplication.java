@@ -1,4 +1,4 @@
-package ch.so.agi.agdi.geodb;
+package ch.so.agi.agdi.data;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
